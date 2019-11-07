@@ -1,8 +1,8 @@
 # About build qemu and xv6
-Q:How to get qemu?
-A:git clone https://github.com/mit-pdos/6.828-qemu.git qemu
+Q:How to get qemu?  
+A:git clone https://github.com/mit-pdos/6.828-qemu.git qemu 
 (However it usually works slowly.There may be a solution for you: clone this repo to 
-gitee and download, or git clone https://gitee.com/jackyzt/6.828-qemu.git qemu)
+gitee and download, or git clone https://gitee.com/jackyzt/6.828-qemu.git qemu) 
 
 Q:How to build qemu?
 A: cd qemu
